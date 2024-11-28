@@ -3,6 +3,17 @@
 ## Results  
 Loading may take some time...
 
+
+#### First stage result from the proposed method.  
+I3D stage 2 uint 8  
+![I3D stage 2 uint 8](results/i3d_s2_u8.gif) 
+
+I3D stage 4 uint 0  
+![I3D stage 4 uint 0](results/i3d_s4_u0.gif)
+
+I3D stage 5 uint 0  
+![I3D stage 5 uint 0](results/i3d_s5_u0.gif)
+
 #### First stage result from [this paper](https://arxiv.org/abs/2006.15983).
 
 3DInception 3b uint 12   
